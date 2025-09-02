@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Third Post"
-date:   2025-09-02 15:30:00 +0300
+date:   2025-09-02 10:30:00 +0300
 categories: jekyll update
 ---
 
