@@ -17,25 +17,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: "Notes on Physics"
 description: "My notes on Physics"
 url: "https://notesonphysics.netlify.app"
 baseurl: ""
 
-plugins:
-  - jekyll-sitemap
-
-
 twitter_username: gunayg22
-github_username:  EventualEnd
+github_username: EventualEnd
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
