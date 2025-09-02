@@ -20,8 +20,8 @@
 
 title: "Notes on Physics"
 description: "My notes on Physics"
-baseurl: ""
 url: "https://notesonphysics.netlify.app"
+baseurl: ""
 
 plugins:
   - jekyll-sitemap
