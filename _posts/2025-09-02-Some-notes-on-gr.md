@@ -13,10 +13,10 @@ For those who are not familiar with General Relativity, but have at least some b
 
 For those who want to learn more about General Relativity, especially its geometrical side, I strongly recommend A Relativist’s Toolkit by Eric Poisson. It is a challenging book for those studying independently, but do not worry—there is also a 24-lecture recorded course from the Perimeter Institute available on the PIRSA website. The course, called Advanced General Relativity, was recorded in the first months of 2024. You will likely enjoy it if you already have some fundamental GR knowledge. In the course, Poisson does not cover Chapter 4 of his book. However, once you work through Chapters 1, 2, and 3, Chapter 4 becomes much easier to read on your own. He also does not cover the entire book—some parts follow the style of other standard texts, but in the videos he emphasizes the more geometrical aspects of GR, which I personally found very engaging. I have also taken notes on the videos, which you can find below for Chapters 1, 2, 3, and 5.
 
-[Fundamentals](/assets/files/Fundamentals.pdf)
-[Congruences](/assets/files/Congruences.pdf)
-[Hypersurfaces](/assets/files/Hypersurfaces.pdf)
-[BlackHole](/assets/files/BlackHole.pdf)
+-[Fundamentals](/assets/files/Fundamentals.pdf)
+-[Congruences](/assets/files/Congruences.pdf)
+-[Hypersurfaces](/assets/files/Hypersurfaces.pdf)
+-[BlackHole](/assets/files/BlackHole.pdf)
 
 
 For those who already have knowledge beyond the fundamentals (and you will certainly gain more than just the basics from Eric Poisson’s videos) and want to explore the more mathematical side of General Relativity, I recommend General Relativity by Robert Wald. In fact, Wald was recently honored with Dirac Medal—together with Gibbons, Kerr, and Horowitz—for his contributions. Studying Wald’s book after working through A Relativist’s Toolkit will definitely make the process easier.
