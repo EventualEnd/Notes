@@ -34,6 +34,7 @@ plugins:
 # Fix sitemap URLs
 permalink: /:year/:month/:day/:title.html
 
+email: gokaygunay98@gmail.com
 
 
 # Exclude from processing.
