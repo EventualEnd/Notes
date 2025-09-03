@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
+I am Gokay, a senior physics student at Istanbul Technical University. I built this site to share my notes on the subjects I am currently studying. I know well that it can be challenging for a student to learn advanced topics independently, I have experienced these difficulties myself. That is why I want to share not only my notes but also the sources I used, and point out where you can learn even more beyond my notes.
 
-I am Gokay, a senior physics student in Istanbul Tehncial University. I built this site to share my notes on whatever I am studying on. I am well aware that it is a challange for a student to learn advanced topics by himself, I have suffered being myself and I want to share my notes and which sources you can learn more than my notes
-, what sources I have used and so on.
+
