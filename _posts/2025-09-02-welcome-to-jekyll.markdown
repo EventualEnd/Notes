@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on BH"
+title:  "Notes on Black Hole"
 date:   2025-09-02 09:45:19 +0300
 categories: jekyll update
 ---
