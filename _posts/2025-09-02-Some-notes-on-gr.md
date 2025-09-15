@@ -23,4 +23,3 @@ For those who want to learn more about General Relativity, especially its geomet
 For those who already have knowledge beyond the fundamentals (and you will certainly gain more than just the basics from Eric Poisson’s videos) and want to explore the more mathematical side of General Relativity, I recommend General Relativity by Robert Wald. In fact, Wald was recently honored with Dirac Medal—together with Gibbons, Kerr, and Horowitz—for his contributions. Studying Wald’s book after working through A Relativist’s Toolkit will definitely make the process easier.
 
 
-I am currently studying Wald’s General Relativity, and I am planning to study Quantum Field Theory in Curved Spacetime by Wald as well. In addition, I intend to follow the Perimeter Institute’s video courses on Mathematical Physics (Core) and Mathematical Physics (Elective), which I presume cover, more or less, the material from Nakahara’s book on geometry and topology.
